@@ -26,4 +26,4 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" />
 </div>
 
-<p align="left">I'm currently pursuing a degree in software engineering and cybersecurity. I have worked on several backend projects and am also planning to dive into Solidity to deepen my blockchain development skills. Additionally, I am learning how AI integrates into automating security, blockchain activities</p>
+<p align="left">I'm currently pursuing a degree in software engineering and cybersecurity. I have worked on several backend projects and am also planning to dive into Solidity to deepen my blockchain development skills. Additionally, I am learning how AI integrates into automating security, blockchain activities.</p>
